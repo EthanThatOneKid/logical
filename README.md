@@ -2,7 +2,7 @@
 
 > "Logic is the beginning of wisdom, not the end of it." — Spock
 
-## Getting Started
+## Guide
 
 ### Installation
 
@@ -17,5 +17,9 @@
 - Update title of current transmission: `logical -t "The Title"` (Title defaults to the content of the initial transmission log).
 - Add tags to current transmission: `logical -at "add", "these", "tags"`.
 - Remove tags from current transmission: `logical -rt "remove", "these", "tags".
+
+### Best Practices
+
+_TODO: Descibe logging best practices and ideals._
 
 [deno_install]: https://github.com/denoland/deno_install
