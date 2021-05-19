@@ -19,6 +19,7 @@
 - Remove tags from current transmission: `logical -rt "remove", "these", "tags"`.
 - Print current or most recent log: `logical -r`.
 - Print the 7 most recent logs: `logical -r 7`.
+- Print log by title or tags: `logical -r "look-for-this-title", "or", "these", "tags"`.
 
 ### Best Practices
 
