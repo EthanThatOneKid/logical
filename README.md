@@ -6,7 +6,7 @@
 
 ### Installation
 
-- Make sure [deno is installed][deno_install].
+- Make sure [deno is installed][deno_install] on your machine.
 - Run `deno install ...`.
 
 ### Your First Log
