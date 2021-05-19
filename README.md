@@ -16,7 +16,9 @@
 - Complete current transmission: `logical -c`.
 - Update title of current transmission: `logical -t "The Title"` (Title defaults to the content of the initial transmission log).
 - Add tags to current transmission: `logical -at "add", "these", "tags"`.
-- Remove tags from current transmission: `logical -rt "remove", "these", "tags".
+- Remove tags from current transmission: `logical -rt "remove", "these", "tags"`.
+- Print current or most recent log: `logical -r`.
+- Print the 7 most recent logs: `logical -r 7`.
 
 ### Best Practices
 
