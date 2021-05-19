@@ -20,6 +20,7 @@
 - Print current or most recent log: `logical -r`.
 - Print the 7 most recent logs: `logical -r 7`.
 - Print log by title or tags: `logical -r "look-for-this-title", "or", "these", "tags"`.
+- Check current transmission status: `logical -s`.
 
 ### Best Practices
 
