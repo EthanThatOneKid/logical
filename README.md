@@ -2,6 +2,12 @@
 
 > "Logic is the beginning of wisdom, not the end of it." — Spock
 
+## About
+
+If you would like to quickly log anywhere on your machine, you have come to the right place, logically speaking.
+Simply, run `logical hello world` after installing the script on your machine to save a simple `log.txt` file in your current directory.
+Combine this with Git for a version-controlled logging ecosystem.
+
 ## Guide
 
 ### Installation
@@ -13,8 +19,9 @@
 
 - Start logging: `logical "Hello World!"`.
 
-### Best Practices
+---
 
-_TODO: Describe logging best practices and ideals._
+Created with 💖 by [EthanThatOneKid][author_url]
 
 [deno_install]: https://github.com/denoland/deno_install
+[author_url]: https://github.com/EthanThatOneKid
