@@ -7,11 +7,10 @@
 ### Installation
 
 - Make sure [deno is installed][deno_install] on your machine.
-- Run `deno install ...`.
+- Run `deno install --allow-write https://raw.githubusercontent.com/EthanThatOneKid/logical/main/cli.ts`.
 
 ### Your First Log
 
-- Initialize directory: `logical init`.
 - Start logging: `logical "Hello World!"`.
 
 ### Best Practices
